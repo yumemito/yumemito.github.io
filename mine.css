@@ -1,4 +1,10 @@
-h1 {
+h1{
+   background-color: #6B8E23;
    color: #426493;
+      font-family: "Times New Roman", Times, serif;
  }
- 
+ body{
+   font-family: "Courier New", Courier, monospace;
+   background-color: #B8860B;
+   }
+   
